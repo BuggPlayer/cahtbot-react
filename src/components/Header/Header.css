@@ -1,0 +1,53 @@
+.header-main {
+  /* display: flex; */
+  background-color: #e4002b;
+  padding: 25px 22px;
+}
+
+.backarrow {
+  color: white;
+  width: 16.64px;
+  height: 16.64px;
+  margin-top: 6px;
+}
+
+.rightbackarrow {
+  color: white;
+  width: 16.64px;
+  height: 16.64px;
+  margin-top: 6px;
+  margin-left: auto;
+}
+.HeaderText {
+  color: white;
+  margin-left: 11px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 19.76px;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.weltext {
+  /* margin: 18px 101px 17.8px 11px; */
+  font-family: "Mulish", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  text-align: left;
+  color: #fff;
+}
+.kfcarelogo {
+  width: 34px;
+  height: 36.6px;
+  align-self: center;
+  flex-grow: 0;
+  margin: 15px 17px 4.2px 26px;
+  object-fit: contain;
+}
+.crossicon {
+  margin: 6px 21.1px 11.9px 20px;
+  object-fit: contain;
+  color: white;
+  padding: 15px 0px;
+}

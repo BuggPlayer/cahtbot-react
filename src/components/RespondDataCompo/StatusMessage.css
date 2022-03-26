@@ -1,0 +1,19 @@
+.statusmessage {
+  width: 270px;
+  /* margin: 50px 0 0 29px; */
+  padding: 8px 7px 16px 33px;
+
+  background-color: #fff;
+  border-radius: 0px 30px 30px 30px;
+  margin-left: 39px;
+  margin-top: 20px;
+}
+.messageStatus {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Rubik" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  color: #484848;
+}

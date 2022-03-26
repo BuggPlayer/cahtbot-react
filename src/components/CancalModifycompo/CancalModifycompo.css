@@ -1,0 +1,93 @@
+.mainContainer {
+  background-color: #f2f3f7;
+  /* position: re; */
+  margin-top:35px;
+  position: relative;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+.mainContainerAr {
+  background-color: #f2f3f7;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+  position: relative;
+  margin-right: 46px;
+}
+.botlogocancalEn {
+  width: 50px;
+  height: 30px;
+  position: absolute;
+  top: 34;
+  left: -5;
+}
+.botlogocancalAr {
+  width: 50px;
+  height: 30px;
+  position: absolute;
+  top: 14;
+  right: -46;
+}
+
+.avt {
+  z-index: 1;
+  top: 25px;
+  width: 34px;
+  height: 34px;
+  background: #f6f7f9;
+  border: 3px solid #ffffff;
+  margin-left: 20px;
+}
+.dataCOntainer {
+  margin-left: 34px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  width: 268px;
+  border-radius: 0px 30px 30px 30px;
+}
+
+.dataCOntainerAr {
+  margin-left: 34px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  width: 268px;
+  border-radius: 30px 0 30px 30px;
+}
+.dataText {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+}
+.dataTextAr {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: right;
+}
+.timecancal {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0;
+  margin-top: 4px;
+  margin-left: 34px;
+  color: #919191;
+}
+.timecancalAr {
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0;
+  margin-top: 4px;
+  margin-right: 56px;
+  color: #919191;
+}

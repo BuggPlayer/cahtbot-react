@@ -1,0 +1,31 @@
+.optioncard {
+  margin-left: 36px;
+  margin-top: 12px;
+  width: 255px;
+  padding: 20px 32.5px 12px 32px;
+  background-color: #fff;
+  border-radius: 0px 30px 30px 30px;
+  margin-bottom: 40px;
+}
+.btndiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.texthelp {
+  /* width: 261px; */
+  padding: 8px;
+  /* height: 40px; */
+  flex-grow: 0;
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #484848;
+  align-self: center;
+}

@@ -1,0 +1,46 @@
+.confirmedorder {
+  margin-left: 36px;
+  margin-top: 20px;
+
+  width: 260px;
+
+  padding: 20px 32.5px 12px 32px;
+  background-color: #fff;
+  border-radius: 0px 30px 30px 30px;
+}
+.textstatus {
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #484848;
+}
+
+.textstatusred {
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  /* text-align: left; */
+  color: #e4002b;
+  margin-left: 7px;
+}
+.textoption {
+  margin-top: 25px;
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #484848;
+}

@@ -1,0 +1,19 @@
+.thank {
+  width: 250px;
+  /* margin: 50px 0 0 29px; */
+  padding: 8px 7px 16px 33px;
+
+  background-color: #fff;
+  border-radius: 40px;
+  margin-left: 39px;
+  margin-top: 40px;
+}
+.thanktext {
+  margin: 7px 0 15px 14px;
+  font-family: "Rubik";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.43;
+  text-align: left;
+  color: #484848;
+}

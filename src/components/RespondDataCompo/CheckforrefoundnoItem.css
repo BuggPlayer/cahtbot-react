@@ -1,0 +1,16 @@
+.noItemcontainer {
+  margin-left: 36px;
+  margin-top: 20px;
+  width: 260px;
+  padding: 20px 0px 12px 32px;
+  background-color: #fff;
+  border-radius: 0px 30px 30px 30px;
+}
+
+.noitemDataR {
+  font-family: "Mulish" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  color: #484848;
+}

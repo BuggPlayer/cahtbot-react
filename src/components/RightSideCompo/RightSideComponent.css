@@ -1,0 +1,91 @@
+.containerright {
+  display: flex;
+  justify-content: right;
+  background: #f2f3f7;
+  margin-top: 30px;
+}
+.containerrightAr {
+  display: flex;
+  /* justify-content: right; */
+  background: #f2f3f7;
+  /* margin-top: 40px; */
+}
+
+.rightText {
+  font-weight: 800;
+  font-size: 14px;
+  color: #f6f7f9;
+  font-family: "Rubik";
+}
+
+.itemContainer {
+  display: flex;
+  background-color: #e4002b;
+  height: 53px;
+  border-radius: 30px;
+  border-start-end-radius: 100px;
+  border-top-right-radius: 0;
+  align-items: center;
+  justify-content: center;
+  margin-right: 35px;
+}
+.itemContainerAr {
+  display: flex;
+  background-color: #e4002b;
+  height: 53px;
+  border-radius: 30px;
+  /* border-start-end-radius: 100px; */
+  border-top-left-radius: 0;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.itemdata {
+  font-size: 14px;
+  color: white;
+  padding: 20px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: bold;
+}
+.itemdata_Ar {
+  font-size: 14px;
+  color: white;
+  padding: 20px;
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: bold;
+}
+.timeright {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0;
+  display: flex;
+  justify-content: right;
+  margin-right: 36px;
+  color: #919191;
+  margin-top: 6px;
+}
+
+.timerightAr {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0;
+  margin-left: 10px;
+  color: #919191;
+}
+.timecompo {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0;
+  margin-top: 4px;
+  margin-right: 40px;
+  color: #919191;
+}

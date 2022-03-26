@@ -1,0 +1,30 @@
+.viewcontainer {
+  width: 280px;
+  flex-grow: 0;
+  margin: 24px 0 2px 12px;
+  padding: 15.5px 12px 15.5px 9.5px;
+  background-color: #fff;
+  border-radius: 30px;
+  border-radius: 0px 30px 30px 30px;
+  margin-left: 39px;
+}
+
+.ccode {
+  margin: 1.5px 0 2.5px 11.5px;
+  font-family: "Mulish" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  color: #585858;
+}
+
+.kfc20 {
+  flex-grow: 0;
+  margin: 1.5px 0 2.5px 11.5px;
+  font-family: "Mulish" sans-serif;
+  font-size: 14px;
+  text-align: left;
+  font-weight: 800;
+  font-style: italic;
+  color: #000;
+}
